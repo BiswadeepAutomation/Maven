@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="12" passed="12">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="54" started-at="2019-05-16T16:11:38Z" finished-at="2019-05-16T16:11:38Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="54" started-at="2019-05-16T16:11:38Z" finished-at="2019-05-16T16:11:38Z">
+      <class name="com.qa.tests.DemoTest">
+        <test-method status="PASS" signature="Div()[pri:0, instance:com.qa.tests.DemoTest@23ceabc1]" name="Div" duration-ms="1" started-at="2019-05-16T21:41:38Z" finished-at="2019-05-16T21:41:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Div -->
+        <test-method status="PASS" signature="Multiply()[pri:0, instance:com.qa.tests.DemoTest@23ceabc1]" name="Multiply" duration-ms="2" started-at="2019-05-16T21:41:38Z" finished-at="2019-05-16T21:41:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Multiply -->
+        <test-method status="PASS" signature="Sub()[pri:0, instance:com.qa.tests.DemoTest@23ceabc1]" name="Sub" duration-ms="1" started-at="2019-05-16T21:41:38Z" finished-at="2019-05-16T21:41:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Sub -->
+        <test-method status="PASS" signature="Sum()[pri:0, instance:com.qa.tests.DemoTest@23ceabc1]" name="Sum" duration-ms="1" started-at="2019-05-16T21:41:38Z" finished-at="2019-05-16T21:41:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Sum -->
+      </class> <!-- com.qa.tests.DemoTest -->
+      <class name="com.qa.tests.DemoTest1">
+        <test-method status="PASS" signature="Div()[pri:0, instance:com.qa.tests.DemoTest1@5419f379]" name="Div" duration-ms="11" started-at="2019-05-16T21:41:38Z" finished-at="2019-05-16T21:41:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Div -->
+        <test-method status="PASS" signature="Multiply()[pri:0, instance:com.qa.tests.DemoTest1@5419f379]" name="Multiply" duration-ms="2" started-at="2019-05-16T21:41:38Z" finished-at="2019-05-16T21:41:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Multiply -->
+        <test-method status="PASS" signature="Sub()[pri:0, instance:com.qa.tests.DemoTest1@5419f379]" name="Sub" duration-ms="2" started-at="2019-05-16T21:41:38Z" finished-at="2019-05-16T21:41:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Sub -->
+        <test-method status="PASS" signature="Sum()[pri:0, instance:com.qa.tests.DemoTest1@5419f379]" name="Sum" duration-ms="2" started-at="2019-05-16T21:41:38Z" finished-at="2019-05-16T21:41:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Sum -->
+      </class> <!-- com.qa.tests.DemoTest1 -->
+      <class name="com.qa.tests.DemoTest2">
+        <test-method status="PASS" signature="Div()[pri:0, instance:com.qa.tests.DemoTest2@4520ebad]" name="Div" duration-ms="1" started-at="2019-05-16T21:41:38Z" finished-at="2019-05-16T21:41:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Div -->
+        <test-method status="PASS" signature="Multiply()[pri:0, instance:com.qa.tests.DemoTest2@4520ebad]" name="Multiply" duration-ms="1" started-at="2019-05-16T21:41:38Z" finished-at="2019-05-16T21:41:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Multiply -->
+        <test-method status="PASS" signature="Sub()[pri:0, instance:com.qa.tests.DemoTest2@4520ebad]" name="Sub" duration-ms="1" started-at="2019-05-16T21:41:38Z" finished-at="2019-05-16T21:41:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Sub -->
+        <test-method status="PASS" signature="Sum()[pri:0, instance:com.qa.tests.DemoTest2@4520ebad]" name="Sum" duration-ms="1" started-at="2019-05-16T21:41:38Z" finished-at="2019-05-16T21:41:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Sum -->
+      </class> <!-- com.qa.tests.DemoTest2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
